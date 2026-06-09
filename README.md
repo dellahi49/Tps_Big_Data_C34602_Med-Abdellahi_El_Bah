@@ -1,4 +1,4 @@
-# 🚖 PFE-M Big Data 2026 — Sujet 3 : Le Gardien de la Donnée
+# Big Data 2026 — Sujet 3 : Le Gardien de la Donnée
 
 <div align="center">
 
